@@ -3,7 +3,7 @@
     <string name="cd_image">"Cute little earth smiling"</string>
     <string name="title">Hi from the world!</string>
     <string name="subtitle">Glad to have you here</string>
-    <string name="button">Say Hello back</string>
     <string name="toast">HELLO WORLD</string>
+    <string name="button">Say Hello back</string>
 </resources>
 
