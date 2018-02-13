@@ -4,6 +4,6 @@
     <string name="cd_image">Petite terre mignone et souriante</string>
     <string name="subtitle">Heureux de t\'avoir parmi nous</string>
     <string name="title">Le monde te salue !</string>
-    <string name="button">Saluer le monde &#128075;</string>
+    <string name="button">Saluer le monde</string>
     <string name="toast">SALUT LE MONDE</string>
 </resources>
