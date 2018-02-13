@@ -1,0 +1,51 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <!-- Layout -->
+    <style name="Layout" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:background">@color/colorBackground_layout</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">@dimen/spacing_medium</item>
+    </style>
+
+    <!-- Image -->
+    <style name="Image" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:padding">@dimen/spacing_medium</item>
+    </style>
+
+    <!-- Title -->
+    <style name="Title" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorText_title</item>
+        <item name="android:textSize">@dimen/text_size_big</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Subtitle -->
+    <style name="Subtitle" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorText_subtitle</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <!-- Button -->
+    <style name="Button" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:layout_margin">@dimen/spacing_big</item>
+        <item name="android:backgroundTint">@color/colorBackground_button</item>
+        <item name="android:paddingBottom">@dimen/spacing_regular</item>
+        <item name="android:paddingLeft">@dimen/spacing_medium</item>
+        <item name="android:paddingRight">@dimen/spacing_medium</item>
+        <item name="android:paddingTop">@dimen/spacing_regular</item>
+        <item name="android:textSize">@dimen/text_size_regular</item>
+        <item name="android:textColor">@color/colorText_button</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+
+</resources>

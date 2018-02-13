@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground_layout">#1A237E</color>
+    <color name="colorBackground_button">@android:color/white</color>
+    <color name="colorText_title">@android:color/white</color>
+    <color name="colorText_subtitle">#BDBDBD</color>
+    <color name="colorText_button">#424242</color>
+</resources>
