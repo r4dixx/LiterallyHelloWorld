@@ -1,3 +1,4 @@
+
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Literally Hello World</h1>
 <p align="center">Hit that button and say "Hi!" to the world. This is my very first app 😃🎉</p>
@@ -28,7 +29,7 @@ Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun
 
 <h2>Contributing</h2>
 This project is up for translation! Feel free to make a PR with values in your own language: <a href="app/src/main/res/values-fr" target="_blank">example</a>.
-<br>
+
 - 🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 - 🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 - 👋 `HI IN YOUR LANGUAGE` `from` `yourname`
