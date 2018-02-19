@@ -29,7 +29,7 @@ First of four student projects made in 2017-2018 as part of [Udacity's Android B
 Or use [`dryrun`](github.com/cesarferreira/dryrun) by [@CesarFerreira](github.com/cesarferreira)
 
 <h2>Contributing</h2>
-This project is up for translation! Feel free to make a PR with values in your own language [example](app/src/main/res/values-fr)
+This project is up for translation! Feel free to make a PR with values in your own language <a href=app/src/main/res/values-fr>(example)</a>
 
 🇺🇸 "HELLO WORLD" from [r4dixx](https://github.com/r4dixx)
 🇫🇷 "SALUT LE MONDE" de la part de [r4dixx](https://github.com/r4dixx)
