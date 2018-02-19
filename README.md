@@ -7,14 +7,14 @@
 <br/>
 <div align="center"><img src="Screenshots/ezgif-5-51a1b7ecda.gif"></img></div>
 <h2>About</h2>
-First of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803">Udacity's Android Basics Nanodegree</a>
+First of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
-1. [**Literally Hello World**](https://github.com/r4dixx/LiterallyHelloWorld)
-2. [Hello Android](https://github.com/r4dixx/HelloAndroid)
-3. [Cheesy Winter Contest](https://github.com/r4dixx/CheesyWinterContest)
-4. [m32O](https://github.com/r4dixx/m32O)
+1. <a href="https://github.com/r4dixx/LiterallyHelloWorld" target="blank"><strong>Literally Hello World</strong></a>
+2. <a href="https://github.com/r4dixx/HelloAndroid" target="blank">Hello Android</a>
+3. <a href="https://github.com/r4dixx/CheesyWinterContest" target="blank">Cheesy Winter Contest</a>
+4. <a href="https://github.com/r4dixx/m32O" target="blank">m32O</a>
 
 <h3>⏳ Phase 2 - (Feb. - Aug.):</h3>
 
@@ -27,19 +27,19 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 2. Import it in Android Studio
 3. Sync Gradle and run on your device/emulator
 
-Or use <a href="github.com/cesarferreira/dryrun">`dryrun`</a> by <a href="github.com/cesarferreira">@CesarFerreira</a>
+Or use <a href="github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="github.com/cesarferreira" target="_blank">@CesarFerreira</a>
 
 <h2>Contributing</h2>
-This project is up for translation! Feel free to make a PR with values in your own language <a href=app/src/main/res/values-fr>(example)</a>
+This project is up for translation! Feel free to make a PR with values in your own language <a href="app/src/main/res/values-fr" target="blank">(example)</a>
 
-🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx">r4dixx</a>
-🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx">r4dixx</a>
+🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
+🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 👋 `HI IN YOUR LANGUAGE` `from` `yourname`
 
 <h2>Credits</h2>
 
-- Author: <a href="https://twitter.com/r4dixx">Amaël Sikel</a>
-- Illustration created by [mvolz](https://openclipart.org/detail/271128/kawaii-earth)
-- Colors from [the official Material palette](https://material.io/guidelines/style/color.html#color-color-palette)
+- Author: <a href="https://twitter.com/r4dixx" target="_blank">Amaël Sikel</a>
+- Illustration created by <a href="https://openclipart.org/detail/271128/kawaii-earth" target="_blank">mvolz</a>
+- Colors from <a href="https://material.io/guidelines/style/color.html#color-color-palette" target="blank">the official Material palette
 
 <h2>License</h2>
