@@ -7,7 +7,7 @@
 <br/>
 <div align="center"><img src="Screenshots/ezgif-5-51a1b7ecda.gif"></img></div>
 <h2>About</h2>
-First of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>
+First of four student projects made in 2017-2018 as part of <a href="https://eu.udacity.com/course/android-basics-nanodegree-by-google--nd803" target="_blank">Udacity's Android Basics Nanodegree</a>.
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
