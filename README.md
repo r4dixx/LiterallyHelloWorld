@@ -6,9 +6,7 @@
 <br/>
 <div align="center"><img src="Screenshots/ezgif-5-51a1b7ecda.gif"></img></div>
 <h2>About</h2>
-First of four student projects made in 2017-2018 as part of [Udacity's Android Basics Nanodegree](https://eu.udacity.com/course/android-basics-nanodegree-by-google).
-
-----------
+First of four student projects made in 2017-2018 as part of [Udacity's Android Basics Nanodegree](https://eu.udacity.com/course/android-basics-nanodegree-by-google)
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
@@ -17,7 +15,6 @@ First of four student projects made in 2017-2018 as part of [Udacity's Android B
 3. [Cheesy Winter Contest](https://github.com/r4dixx/CheesyWinterContest)
 4. [m32O](https://github.com/r4dixx/m32O)
 
-----------
 <h3>⏳ Phase 2 - (Feb. - Aug.):</h3>
 
 *In progress*
