@@ -24,7 +24,7 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 2. Import it in Android Studio
 3. Sync Gradle and run on your device/emulator
 
-Or use <a href="github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="github.com/cesarferreira" target="_blank">@CesarFerreira</a>
+Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
 
 <h2>Contributing</h2>
 This project is up for translation! Feel free to make a PR with values in your own language <a href="app/src/main/res/values-fr" target="_blank">(example)</a>
