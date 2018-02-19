@@ -8,7 +8,7 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 
 <h3>☑️ Phase 1 - (Nov. - Feb.):</h3>
 
-1. [Literally Hello World](https://github.com/r4dixx/LiterallyHelloWorld){:target="_blank"}
+1. <a href="https://github.com/r4dixx/LiterallyHelloWorld"><strong>Literally Hello World</strong></a>
 2. <a href="https://github.com/r4dixx/HelloAndroid" target="_blank">Hello Android</a>
 3. <a href="https://github.com/r4dixx/CheesyWinterContest" target="_blank">Cheesy Winter Contest</a>
 4. <a href="https://github.com/r4dixx/m32O" target="_blank">m32O</a>
