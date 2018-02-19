@@ -28,7 +28,7 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
 
 <h2>Contributing</h2>
-This project is up for translation! Feel free to make values in your own language: <a href="app/src/main/res/values-fr" target="_blank">example</a>. Simply submit a pull request and I'll add your name to the list.
+This project is up for translation! Feel free to make a PR with values in your own language: <a href="app/src/main/res/values-fr" target="_blank">example</a>.
 
 - 🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 - 🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
