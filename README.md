@@ -33,7 +33,7 @@ This project is up for translation! Feel free to make a PR with values in your o
 <br><br>
 🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
 🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
-👋 "`"HI" IN YOUR LANGUAGE`" `"from" in your language` `yourname`
+👋 `"HI" IN YOUR LANGUAGE` `"from" in your language` `yourname`
 
 <h2>Credits</h2>
 
