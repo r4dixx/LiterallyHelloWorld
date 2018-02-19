@@ -1,5 +1,6 @@
 
 
+
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
 <h1 align="center">Literally Hello World</h1>
 <p align="center">Hit that button and say "Hi!" to the world. This is my very first app 😃🎉</p>
@@ -19,7 +20,18 @@ First of four student projects made in 2017-2018 as part of <a href="https://eu.
 
 *In progress*
 <h2>Goal</h2>
-<h2>Key learnings</h2>
+
+*Draw a card wireframe and implement it in XML. It should be simple and clear and shouldn't have fixed widths or heights.*
+
+<h2>Top 5 key learnings</h2>
+
+- Layout weights
+- Landscape support
+- LDPI support
+- RTL support
+
+Project has been improved at the end of Phase 1 given the new learnings acquired by then.
+
 <h2>Installation</h2>
 
 1. Download this project as zip and extract it
@@ -33,7 +45,7 @@ This project is up for translation! Feel free to make a PR with values in your o
 <br><br>
 🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
 🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
-👋 `"HI" IN YOUR LANGUAGE` `"from" in your language` `yourname`
+👋 "<code><em>HELLO WORLD</em> inyourlanguage</code>" <code><em>from</em> inyourlanguage</code> <code>yourname</code>
 
 <h2>Credits</h2>
 
