@@ -50,4 +50,5 @@ This project is up for translation! Feel free to make a Pull Request with values
 - Illustration created by <a href="https://openclipart.org/detail/271128/kawaii-earth" target="_blank">mvolz</a>
 - Colors from <a href="https://material.io/guidelines/style/color.html#color-color-palette" target="_blank">the official Material palette
 
-<h2>License</h2>
+<h2>Copyright</h2>
+This project is licensed under the terms of the MIT license and protected by Udacity Honor Code and Community Code of Conduct See <a href=".idea/copyright">copyright</a>
