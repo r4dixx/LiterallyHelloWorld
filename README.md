@@ -30,8 +30,7 @@ Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun
 
 <h2>Contributing</h2>
 This project is up for translation! Feel free to make a PR with values in your own language: <a href="app/src/main/res/values-fr" target="_blank">example</a>.  
-
-
+  
 - 🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 - 🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a>
 - 👋 `HI IN YOUR LANGUAGE` `from` `yourname`
