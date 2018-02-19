@@ -1,6 +1,6 @@
 <div align="center"><img src="app/src/main/res/mipmap-xhdpi/ic_launcher.png"></div>
-
+<br/>
 <h1 align="center">Literally Hello World</h1>
 <p align="center">A simple yet playful "Hello World" screen. This is my first app!</p>
-
+<br/>
 <div align="center"><img src="Screenshots/ezgif-5-51a1b7ecda.gif"></img><br/><br/></div>
