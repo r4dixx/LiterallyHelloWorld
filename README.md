@@ -51,7 +51,7 @@ This project is up for translation! Feel free to make a Pull Request with values
 👋 "<code><em>HELLO WORLD</em> inyourlanguage</code>" <code><em>from</em> inyourlanguage</code> <code>yourname</code>
 
 <h2>Project status</h2>
-Open to translation and code suggestions. Closed feature-wise.
+Open to translations. Closed for anything else.
 
 <h2>Credits</h2>
 
