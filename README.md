@@ -44,14 +44,10 @@ Project has been improved at the end of Phase 1 given the new learnings acquired
 Or use <a href="https://github.com/cesarferreira/dryrun" target="_blank">`dryrun`</a> by <a href="https://github.com/cesarferreira" target="_blank">@CesarFerreira</a>
 
 <h2>Contributing</h2>
-This project is up for translation! Feel free to make a Pull Request with values in your own language: <a href="app/src/main/res/values-fr" target="_blank">EXAMPLE</a>
-<br><br>
-🇺🇸 "HELLO WORLD" from <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
-🇫🇷 "SALUT LE MONDE" de la part de <a href="https://github.com/r4dixx" target="_blank">r4dixx</a><br/>
-👋 "<code><em>HELLO WORLD</em> inyourlanguage</code>" <code><em>from</em> inyourlanguage</code> <code>yourname</code>
+No contributions can be made. Project archived.
 
 <h2>Project status</h2>
-Open to translations. Closed for anything else.
+Closed.
 
 <h2>Credits</h2>
 
